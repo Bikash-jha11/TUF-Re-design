@@ -1,0 +1,31 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap:20px;
+  margin-right: 10px;
+ 
+}
+
+.main{
+ display: flex;
+ flex-direction: column;
+ gap:10px;
+}
+
+
+.header{
+     display: flex;
+     gap:10px;
+}
+.heading{
+     color:#f5650c;
+
+}
+.arrow {
+  margin-top: 5px;
+  color: #f5650c;
+  font-weight: bold;
+}

@@ -1,0 +1,11 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+p{
+  font-weight:200;
+  font-size:14px;
+  color:#827D7C;
+}

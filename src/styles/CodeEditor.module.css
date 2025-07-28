@@ -1,0 +1,19 @@
+.container{
+    position: absolute;
+    min-width:70%;
+    height:500px;
+    z-index: 10;
+    border-radius: 10px;
+    background-color: #1c1b1b;
+    
+}
+
+.numbers{
+    display:flex;
+    flex-direction: column;
+    margin-left:20px;
+}
+.codes{
+    display:flex;
+    gap: 50px;
+}

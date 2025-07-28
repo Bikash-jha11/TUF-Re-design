@@ -1,0 +1,36 @@
+.container {
+  background-color: black;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  /* padding: 5px; */
+}
+
+.logo {
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.middle_section {
+  display: flex;
+  justify-content: space-between;
+  min-width: 20%;
+  font-weight: 400;
+  margin-top:10px;
+ /* background: #0a0a0d;
+background: linear-gradient(90deg, rgba(10, 10, 13, 1) 0%, rgba(122, 84, 34, 1) 65%, rgba(10, 8, 5, 1) 100%); */
+}
+.login_btn {
+  margin-right: 20px;
+background: #080a0a;
+background: linear-gradient(0deg,rgba(8, 10, 10, 1) 1%, rgba(36, 33, 20, 1) 0%, rgba(18, 17, 17, 1) 25%, rgba(194, 84, 16, 1) 100%);
+
+  border-radius:10px;
+  width:90px;
+  height: 35px;
+  outline:none;
+  border:none;
+}
